@@ -1,4 +1,4 @@
-node = "https://siricoin-node-1.dynamic-dns.net:5005/"
+node = "https://node-1.siricoin.tech:5006/"
 
 function convertFromHex(hex) {
     var hex = hex.toString();//force conversion
